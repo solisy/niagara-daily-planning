@@ -1,0 +1,10 @@
+date,material,req_qty,available_qty,short_qty,earliest_eta,suggested_action
+2026-02-09,CAP,884529.0,44449.0,840080.0,2026-02-11,Expedite / Re-sequence / Substitute
+2026-02-09,LABEL,884529.0,135950.0,748579.0,2026-02-18,Expedite / Re-sequence / Substitute
+2026-02-09,PREP,884529.0,130971.0,753558.0,2026-02-15,Expedite / Re-sequence / Substitute
+2026-02-10,CAP,687988.0,44449.0,643539.0,2026-02-11,Expedite / Re-sequence / Substitute
+2026-02-10,LABEL,687988.0,135950.0,552038.0,2026-02-18,Expedite / Re-sequence / Substitute
+2026-02-10,PREP,687988.0,130971.0,557017.0,2026-02-15,Expedite / Re-sequence / Substitute
+2026-02-11,CAP,393144.0,144168.0,248976.0,2026-02-11,Expedite / Re-sequence / Substitute
+2026-02-11,LABEL,393144.0,135950.0,257194.0,2026-02-18,Expedite / Re-sequence / Substitute
+2026-02-11,PREP,393144.0,130971.0,262173.0,2026-02-15,Expedite / Re-sequence / Substitute

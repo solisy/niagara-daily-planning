@@ -1,0 +1,19 @@
+sku,date,baseline_fcst,override_fcst,reason,owner
+WTR-1L-12PK,2026-02-19,512,595,Trend break,Planning
+WTR-35PK,2026-02-11,689,895,Trend break,Planning
+WTR-8OZ-48PK,2026-02-22,1143,1415,Promo lift,Planning
+WTR-500ML-24PK,2026-02-10,292,281,Ops constraint,Sales
+WTR-169OZ-35PK,2026-02-15,629,629,Promo lift,Sales
+WTR-500ML-24PK,2026-02-20,378,486,Customer add-on,Sales
+WTR-1GAL-6PK,2026-02-20,1329,1133,Ops constraint,CS
+WTR-8OZ-48PK,2026-02-12,1582,1994,Customer add-on,Sales
+WTR-169OZ-24PK,2026-02-15,327,408,Ops constraint,Sales
+WTR-169OZ-24PK,2026-02-12,388,421,Trend break,CS
+WTR-1L-24PK,2026-02-16,1165,1167,Customer add-on,Planning
+WTR-1L-35PK,2026-02-13,1307,1293,Customer add-on,CS
+WTR-1GAL-6PK,2026-02-14,637,623,Promo lift,CS
+WTR-15L-48PK,2026-02-15,1026,1100,Customer add-on,CS
+WTR-169OZ-48PK,2026-02-11,1088,1199,Customer add-on,Planning
+WTR-169OZ-48PK,2026-02-14,1012,1140,Trend break,Planning
+WTR-1L-12PK,2026-02-12,389,524,Ops constraint,Planning
+WTR-1L-12PK,2026-02-15,386,481,Promo lift,CS
