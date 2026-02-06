@@ -26,6 +26,9 @@ This portfolio project simulates a **bottled water plant** planning role aligned
 
 ---
 ## Start here (key outputs)
+
+Open these three files first — they mirror daily outputs for Planning (schedule), Purchasing (MRP exceptions), and Ops/CS (inventory policy adherence).
+
 Start with these three outputs — schedule, MRP exceptions, and inventory policy adherence.
 - **Daily production schedule (daily re-plan):** [`results/daily_production_schedule.csv`](results/daily_production_schedule.csv)
 - **MRP shortages & ETA exceptions (Purchasing actions):** [`results/mrp_exception_report.csv`](results/mrp_exception_report.csv)
