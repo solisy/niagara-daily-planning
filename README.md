@@ -25,6 +25,10 @@ This portfolio project simulates a **bottled water plant** planning role aligned
 - Ops executes schedule; Purchasing acts on shortages/ETAs; CS/Sales manage priorities; Transportation aligns ship windows/cutoffs (simplified)
 
 ---
+## Start here (key outputs)
+- **Daily production schedule (daily re-plan):** `results/daily_production_schedule.csv`
+- **MRP shortages & ETA exceptions (Purchasing actions):** `results/mrp_exception_report.csv`
+- **Inventory policy adherence (Min/Target/Max DOS):** `results/inventory_policy_adherence.csv`
 
 ## Deliverables (outputs)
 
