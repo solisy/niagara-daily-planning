@@ -4,8 +4,6 @@ This portfolio project simulates a **bottled water plant** planning role aligned
 
 ---
 
-## JD Alignment (mapped to Niagara responsibilities)
-
 ### Produce production plans & revise schedule daily (6+ lines)
 - Output: `results/daily_production_schedule.csv`
 - Includes: line eligibility/capacity, changeover minutes, unmet demand flags (exception-based planning)
@@ -68,7 +66,7 @@ python src/04_reports_and_charts.py --data_dir data --results_dir results
 
 # Niagara-Style Daily Production Planning & MRP Control Tower (6+ Lines)
 
-**Goal (JD-aligned):** Create and execute daily production plans, maintain planning parameters, monitor/adjust forecasts, ensure MRP drives accurate material needs, and enforce inventory policy adherence — while coordinating across Manufacturing, Purchasing, Sales/CS, and Transportation.
+**Goal:** Create and execute daily production plans, maintain planning parameters, monitor/adjust forecasts, ensure MRP drives accurate material needs, and enforce inventory policy adherence — while coordinating across Manufacturing, Purchasing, Sales/CS, and Transportation.
 
 ## What this repo produces (deliverables)
 - `results/daily_production_schedule.csv` — **daily re-plan** schedule (line × SKU) with capacity/eligibility flags
